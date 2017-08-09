@@ -1,0 +1,5 @@
+vhdl isim_temp "REGMUX2x1.vhd"
+vhdl isim_temp "PCREGISTER.vhd"
+vhdl isim_temp "IF_MEM.vhd"
+vhdl isim_temp "IFSTAGE.vhd"
+vhdl isim_temp "IFSTAGE_TEST.vhd"

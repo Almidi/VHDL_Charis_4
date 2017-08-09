@@ -1,0 +1,33 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST_isim_beh.exe -prj C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST_beh.prj work.DECSTAGE_TEST 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/myRegister.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MUX32x1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MUX2TO1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Decoder5to32.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/CompareModule.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/REGISTER_FILE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MUX2X1_5B.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity MYREGISTER [myregister_default]
+Compiling architecture behavioral of entity MUX32X1 [mux32x1_default]
+Compiling architecture behavioral of entity MUX2TO1 [mux2to1_default]
+Compiling architecture behavioral of entity CompareModule [comparemodule_default]
+Compiling architecture behavioral of entity Decoder5x32 [decoder5x32_default]
+Compiling architecture behavioral of entity REGISTER_FILE [register_file_default]
+Compiling architecture behavioral of entity MUX2X1_5B [mux2x1_5b_default]
+Compiling architecture behavioral of entity DECSTAGE [decstage_default]
+Compiling architecture behavior of entity decstage_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 19 VHDL Units
+Built simulation executable C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST_isim_beh.exe
+Fuse Memory Usage: 30536 KB
+Fuse CPU Usage: 593 ms

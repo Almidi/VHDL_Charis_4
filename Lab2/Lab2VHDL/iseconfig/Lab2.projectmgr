@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Lab2" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|ALU.vhd</ClosedNode>
+         <ClosedNode>/ALUSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|ALUSTAGE.vhd</ClosedNode>
+         <ClosedNode>/DECSTAGE - Behavioral C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE.vhd/REGISTERFILE - REGISTER_FILE - Behavioral</ClosedNode>
+         <ClosedNode>/DECSTAGE - Behavioral C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|Lab2|DECSTAGE.vhd/REGISTERS - REGISTER_FILE - Behavioral</ClosedNode>
+         <ClosedNode>/DECSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE.vhd</ClosedNode>
+         <ClosedNode>/IFSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|IFSTAGE.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>myMemory - Data_MEM - syn (C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Data_MEM.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000152000000020000000000000000000000000200000064ffffffff000000810000000300000002000001520000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>myMemory - Data_MEM - syn (C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Data_MEM.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000132000000010000000100000000000000000000000064ffffffff000000810000000000000001000001320000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002c60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>IFSTAGE.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|ALUSTAGE.vhd</ClosedNode>
+         <ClosedNode>/ALUSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|ALUSTAGE_TEST.vhd/uut - ALUSTAGE - Behavioral/ALUST - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUSTAGE_TEST - behavior C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|ALUSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/DECSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE.vhd</ClosedNode>
+         <ClosedNode>/DECSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/DECSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE_TEST.vhd/uut - DECSTAGE - Behavioral</ClosedNode>
+         <ClosedNode>/DECSTAGE_TEST - behavior C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/DECSTAGE_TEST - behavior C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|DECSTAGE_TEST.vhd/uut - DECSTAGE - Behavioral</ClosedNode>
+         <ClosedNode>/IFSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|IFSTAGE.vhd</ClosedNode>
+         <ClosedNode>/IFSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|IFSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/IFSTAGE_TEST - behavior C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|IFSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/MEMSTAGE - Behavioral C:|Users|vaila|Dropbox|ORGANWSH|Lab2|Lab2VHDL|MEMSTAGE.vhd</ClosedNode>
+         <ClosedNode>/MEMSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|MEMSTAGE_TEST.vhd</ClosedNode>
+         <ClosedNode>/MEMSTAGE_TEST - behavior C:|Users|JARVIS|Dropbox|ORGANWSH|Lab2|Lab2VHDL|MEMSTAGE_TEST.vhd/uut - MEMSTAGE - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>MEMSTAGE_TEST - behavior (C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MEMSTAGE_TEST.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000166000000020000000000000000000000000200000064ffffffff000000810000000300000002000001660000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>MEMSTAGE_TEST - behavior (C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MEMSTAGE_TEST.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000132000000010000000100000000000000000000000064ffffffff000000810000000000000001000001320000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000132000000010000000100000000000000000000000064ffffffff000000810000000000000001000001320000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Behavioral Check Syntax</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000132000000010000000100000000000000000000000064ffffffff000000810000000000000001000001320000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Behavioral Check Syntax</CurrentItem>
+   </ItemView>
+</Project>

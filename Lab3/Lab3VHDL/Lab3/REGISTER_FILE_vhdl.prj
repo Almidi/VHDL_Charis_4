@@ -1,0 +1,6 @@
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\myRegister.vhd"
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\MUX32x1.vhd"
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\MUX2TO1.vhd"
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\Decoder5to32.vhd"
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\CompareModule.vhd"
+vhdl work "C:\Users\vaila\Dropbox\ORGANWSH\Lab2\Lab2VHDL\Lab2\REGISTER_FILE.vhd"

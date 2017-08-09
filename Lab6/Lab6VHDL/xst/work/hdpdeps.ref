@@ -1,0 +1,216 @@
+V3 119
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ADD32BIT.vhd 2017/02/12.01:00:51 P.20131013
+EN work/ADD32BIT 1494091213 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ADD32BIT.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ADD32BIT/Behavioral 1494091214 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ADD32BIT.vhd \
+      EN work/ADD32BIT 1494091213
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALU.vhd 2017/03/10.21:45:30 P.20131013
+EN work/ALU 1494091239 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/std_logic_misc 1381692178 \
+      PB ieee/NUMERIC_BIT 1381692180 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1494091240 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALU.vhd EN work/ALU 1494091239 \
+      CP ADD32BIT CP SUB32BIT CP ROTL CP ROTR CP SLLO CP SRAO CP SRLO
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALUSTAGE.vhd 2017/05/05.21:38:18 P.20131013
+EN work/ALUSTAGE 1494091241 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALUSTAGE.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALUSTAGE/Behavioral 1494091242 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALUSTAGE.vhd \
+      EN work/ALUSTAGE 1494091241 CP MUX2TO1 CP ALU
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHE.vhd 2017/05/06.13:18:58 P.20131013
+EN work/CACHE 1494091229 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHE.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176 PB ieee/STD_LOGIC_TEXTIO 1381692180
+AR work/CACHE/syn 1494091230 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHE.vhd EN work/CACHE 1494091229
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHESTAGE.vhd 2017/05/06.19:28:17 P.20131013
+EN work/CACHE_STAGE 1494091247 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHESTAGE.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177
+AR work/CACHE_STAGE/Behavioral 1494091248 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHESTAGE.vhd \
+      EN work/CACHE_STAGE 1494091247 CP CACHE
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd 2017/05/06.17:55:27 P.20131013
+EN work/CNTRL 1494088246 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177
+AR work/CNTRL/Behavioral 1494088247 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd EN work/CNTRL 1494088246 \
+      CP PC
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CompareModule.vhd 2017/02/13.14:31:59 P.20131013
+EN work/CompareModule 1494091207 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CompareModule.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/CompareModule/Behavioral 1494091208 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CompareModule.vhd \
+      EN work/CompareModule 1494091207
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Datapath.vhd 2017/05/06.19:05:31 P.20131013
+EN work/Datapath 1494088258 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Datapath.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Datapath/Behavioral 1494088259 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Datapath.vhd \
+      EN work/Datapath 1494088258 CP ALUSTAGE CP DECSTAGE CP IFSTAGE CP CACHE_STAGE \
+      CP CNTRL CP MEM_WB CP MEM_INTER CP EX_MEM CP ID_EX CP IF_ID
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Decoder5to32.vhd 2017/02/12.19:00:30 P.20131013
+EN work/Decoder5x32 1494091211 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Decoder5to32.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Decoder5x32/Behavioral 1494091212 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Decoder5to32.vhd \
+      EN work/Decoder5x32 1494091211
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/DECSTAGE.vhd 2017/05/05.17:02:38 P.20131013
+EN work/DECSTAGE 1494091243 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/DECSTAGE.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/DECSTAGE/Behavioral 1494091244 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/DECSTAGE.vhd \
+      EN work/DECSTAGE 1494091243 CP REGISTER_FILE CP MUX2X1_5B CP MUX2TO1
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/EX_MEM.vhd 2017/05/06.17:41:07 P.20131013
+EN work/EX_MEM 1494088252 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/EX_MEM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/EX_MEM/Behavioral 1494088253 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/EX_MEM.vhd EN work/EX_MEM 1494088252
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ID_EX.vhd 2017/05/06.17:41:07 P.20131013
+EN work/ID_EX 1494088254 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ID_EX.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ID_EX/Behavioral 1494088255 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ID_EX.vhd EN work/ID_EX 1494088254
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IFSTAGE.vhd 2017/05/06.07:15:31 P.20131013
+EN work/IFSTAGE 1494091245 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IFSTAGE.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177
+AR work/IFSTAGE/Behavioral 1494091246 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IFSTAGE.vhd \
+      EN work/IFSTAGE 1494091245 CP PC_MUX CP PC CP IF_MEM
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_ID.vhd 2017/05/06.07:55:41 P.20131013
+EN work/IF_ID 1494088256 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_ID.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/IF_ID/Behavioral 1494088257 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_ID.vhd EN work/IF_ID 1494088256
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_MEM.vhd 2017/05/06.07:10:54 P.20131013
+EN work/IF_MEM 1494091233 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_MEM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176 PB ieee/STD_LOGIC_TEXTIO 1381692180
+AR work/IF_MEM/syn 1494091234 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_MEM.vhd EN work/IF_MEM 1494091233
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_INTER.vhd 2017/05/06.17:39:05 P.20131013
+EN work/MEM_INTER 1494088250 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_INTER.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MEM_INTER/Behavioral 1494088251 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_INTER.vhd \
+      EN work/MEM_INTER 1494088250
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_WB.vhd 2017/05/05.17:25:43 P.20131013
+EN work/MEM_WB 1494088248 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_WB.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MEM_WB/Behavioral 1494088249 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_WB.vhd EN work/MEM_WB 1494088248
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2TO1.vhd 2017/02/20.17:36:27 P.20131013
+EN work/MUX2TO1 1494091209 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2TO1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX2TO1/Behavioral 1494091210 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2TO1.vhd \
+      EN work/MUX2TO1 1494091209
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2X1_5B.vhd 2017/02/20.18:13:26 P.20131013
+EN work/MUX2X1_5B 1494091237 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2X1_5B.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX2X1_5B/Behavioral 1494091238 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2X1_5B.vhd \
+      EN work/MUX2X1_5B 1494091237
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX32x1.vhd 2017/02/12.19:14:12 P.20131013
+EN work/MUX32X1 1494091205 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX32x1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX32x1/Behavioral 1494091206 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX32x1.vhd \
+      EN work/MUX32X1 1494091205
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/myRegister.vhd 2017/03/11.18:04:29 P.20131013
+EN work/MYREGISTER 1494091203 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/myRegister.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MYREGISTER/Behavioral 1494091204 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/myRegister.vhd \
+      EN work/MYREGISTER 1494091203
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/PCREGISTER.vhd 2017/03/11.18:03:05 P.20131013
+EN work/PC 1494091227 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/PCREGISTER.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/PC/Behavioral 1494091228 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/PCREGISTER.vhd EN work/PC 1494091227
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGISTER_FILE.vhd 2017/03/12.20:40:19 P.20131013
+EN work/REGISTER_FILE 1494091235 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGISTER_FILE.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/REGISTER_FILE/Behavioral 1494091236 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGISTER_FILE.vhd \
+      EN work/REGISTER_FILE 1494091235 CP MYREGISTER CP MUX32X1 CP COMPAREMODULE \
+      CP MUX2TO1 CP DECODER5X32
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGMUX2x1.vhd 2017/02/20.16:14:40 P.20131013
+EN work/PC_Mux 1494091231 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGMUX2x1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/PC_Mux/Behavioral 1494091232 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGMUX2x1.vhd \
+      EN work/PC_Mux 1494091231
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTL.vhd 2017/02/12.13:52:59 P.20131013
+EN work/ROTL 1494091217 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTL.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ROTL/Behavioral 1494091218 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTL.vhd EN work/ROTL 1494091217
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTR.vhd 2017/02/12.01:34:14 P.20131013
+EN work/ROTR 1494091219 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ROTR/Behavioral 1494091220 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTR.vhd EN work/ROTR 1494091219
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SLLO.vhd 2017/02/12.01:34:14 P.20131013
+EN work/SLLO 1494091221 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SLLO.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/SLLO/Behavioral 1494091222 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SLLO.vhd EN work/SLLO 1494091221
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRAO.vhd 2017/02/12.01:34:14 P.20131013
+EN work/SRAO 1494091223 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRAO.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/SRAO/Behavioral 1494091224 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRAO.vhd EN work/SRAO 1494091223
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRLO.vhd 2017/02/12.01:34:14 P.20131013
+EN work/SRLO 1494091225 FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRLO.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/SRLO/Behavioral 1494091226 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRLO.vhd EN work/SRLO 1494091225
+FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SUB32BIT.vhd 2017/02/12.01:01:28 P.20131013
+EN work/SUB32BIT 1494091215 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SUB32BIT.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/NUMERIC_BIT 1381692180 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/SUB32BIT/Behavioral 1494091216 \
+      FL C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SUB32BIT.vhd \
+      EN work/SUB32BIT 1494091215

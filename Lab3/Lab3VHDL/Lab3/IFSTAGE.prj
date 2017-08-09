@@ -1,0 +1,4 @@
+vhdl work "PC_Mux.vhd"
+vhdl work "PCREGISTER.vhd"
+vhdl work "IF_MEM.vhd"
+vhdl work "IFSTAGE.vhd"

@@ -1,0 +1,38 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/Data_MEM.vhd" in Library work.
+Entity <Data_MEM> compiled.
+Entity <Data_MEM> (Architecture <syn>) compiled.
+Compiling vhdl file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/MEMSTAGE.vhd" in Library work.
+Entity <MEMSTAGE> compiled.
+ERROR:HDLParsers:837 - "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/MEMSTAGE.vhd" Line 27. Width mismatch. Expected width 10, Actual width is 32 for dimension 1 of ALU_MEM_Addr.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.26 secs
+ 
+--> 
+
+Total memory usage is 261336 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,98 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/myRegister.vhd" in Library work.
+Architecture behavioral of Entity myregister is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX32x1.vhd" in Library work.
+Architecture behavioral of Entity mux32x1 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CompareModule.vhd" in Library work.
+Architecture behavioral of Entity comparemodule is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX2TO1.vhd" in Library work.
+Architecture behavioral of Entity mux2to1 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Decoder5to32.vhd" in Library work.
+Architecture behavioral of Entity decoder5x32 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ADD32BIT.vhd" in Library work.
+Architecture behavioral of Entity add32bit is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SUB32BIT.vhd" in Library work.
+Architecture behavioral of Entity sub32bit is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ROTL.vhd" in Library work.
+Architecture behavioral of Entity rotl is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ROTR.vhd" in Library work.
+Architecture behavioral of Entity rotr is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SLLO.vhd" in Library work.
+Architecture behavioral of Entity sllo is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SRAO.vhd" in Library work.
+Architecture behavioral of Entity srao is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SRLO.vhd" in Library work.
+Architecture behavioral of Entity srlo is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Data_MEM.vhd" in Library work.
+Architecture syn of Entity data_mem is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/REGMUX2x1.vhd" in Library work.
+Architecture behavioral of Entity pc_mux is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/PCREGISTER.vhd" in Library work.
+Architecture behavioral of Entity pc is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IF_MEM.vhd" in Library work.
+Architecture syn of Entity if_mem is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/REGISTER_FILE.vhd" in Library work.
+Architecture behavioral of Entity register_file is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX2X1_5B.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_5b is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ALUSTAGE.vhd" in Library work.
+Architecture behavioral of Entity alustage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/DECSTAGE.vhd" in Library work.
+Architecture behavioral of Entity decstage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IFSTAGE.vhd" in Library work.
+Architecture behavioral of Entity ifstage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MEMSTAGE.vhd" in Library work.
+Architecture behavioral of Entity memstage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CNTRL.vhd" in Library work.
+Architecture behavioral of Entity cntrl is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX_4to1_32b.vhd" in Library work.
+Architecture behavioral of Entity mux_4to1_32b is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/FWD_CNTRL.vhd" in Library work.
+Architecture behavioral of Entity fwd_cntrl is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/HDU.vhd" in Library work.
+Entity <hdu> compiled.
+Entity <hdu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MEM_WB.vhd" in Library work.
+Architecture behavioral of Entity mem_wb is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/EX_MEM.vhd" in Library work.
+Architecture behavioral of Entity ex_mem is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ID_EX.vhd" in Library work.
+Architecture behavioral of Entity id_ex is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IF_ID.vhd" in Library work.
+Architecture behavioral of Entity if_id is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Datapath.vhd" in Library work.
+Entity <datapath> compiled.
+Entity <datapath> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.91 secs
+ 
+--> 
+
+Total memory usage is 224332 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

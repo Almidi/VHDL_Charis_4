@@ -1,0 +1,29 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFtest_isim_beh.exe -prj C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFtest_beh.prj work.RFtest 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/myRegister.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/MUX32x1.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/MUX2x1.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/Decoder5to32.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/CompareModule.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/REGISTER_FILE.vhd" into library work
+Parsing VHDL file "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFTEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity MYREGISTER [myregister_default]
+Compiling architecture behavioral of entity MUX32X1 [mux32x1_default]
+Compiling architecture behavioral of entity MUX2x1 [mux2x1_default]
+Compiling architecture behavioral of entity CompareModule [comparemodule_default]
+Compiling architecture behavioral of entity Decoder5x32 [decoder5x32_default]
+Compiling architecture behavioral of entity REGISTER_FILE [register_file_default]
+Compiling architecture behavior of entity rftest
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 VHDL Units
+Built simulation executable C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFtest_isim_beh.exe
+Fuse Memory Usage: 29500 KB
+Fuse CPU Usage: 718 ms

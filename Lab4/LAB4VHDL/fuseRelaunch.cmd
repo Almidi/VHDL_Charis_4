@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/vaila/Dropbox/ORGANWSH/Lab4/LAB4VHDL/PROCESSOR_TEST_isim_beh.exe" -prj "C:/Users/vaila/Dropbox/ORGANWSH/Lab4/LAB4VHDL/PROCESSOR_TEST_beh.prj" "work.PROCESSOR_TEST" 

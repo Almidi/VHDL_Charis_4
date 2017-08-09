@@ -1,0 +1,61 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/ADD32BIT.vhd" in Library work.
+Entity <ADD32BIT> compiled.
+Entity <ADD32BIT> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/SUB32BIT.vhd" in Library work.
+Entity <SUB32BIT> compiled.
+Entity <SUB32BIT> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/ROTL.vhd" in Library work.
+Entity <ROTL> compiled.
+Entity <ROTL> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/ROTR.vhd" in Library work.
+Entity <ROTR> compiled.
+Entity <ROTR> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/SLLO.vhd" in Library work.
+Entity <SLLO> compiled.
+Entity <SLLO> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/SRAO.vhd" in Library work.
+Entity <SRAO> compiled.
+Entity <SRAO> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/SRLO.vhd" in Library work.
+Entity <SRLO> compiled.
+Entity <SRLO> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/MUX2TO1.vhd" in Library work.
+Architecture behavioral of Entity mux2to1 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/ALU.vhd" in Library work.
+Entity <ALU> compiled.
+Entity <ALU> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/ALUSTAGE.vhd" in Library work.
+Entity <ALUSTAGE> compiled.
+Entity <ALUSTAGE> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.91 secs
+ 
+--> 
+
+Total memory usage is 274032 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

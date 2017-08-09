@@ -1,0 +1,7 @@
+vhdl isim_temp "myRegister.vhd"
+vhdl isim_temp "MUX32x1.vhd"
+vhdl isim_temp "MUX2x1.vhd"
+vhdl isim_temp "Decoder5to32.vhd"
+vhdl isim_temp "CompareModule.vhd"
+vhdl isim_temp "REGISTER_FILE.vhd"
+vhdl isim_temp "RFTEST.vhd"

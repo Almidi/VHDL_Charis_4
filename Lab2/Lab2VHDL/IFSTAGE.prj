@@ -1,0 +1,4 @@
+vhdl work "REGMUX2x1.vhd"
+vhdl work "PCREGISTER.vhd"
+vhdl work "IF_MEM.vhd"
+vhdl work "IFSTAGE.vhd"

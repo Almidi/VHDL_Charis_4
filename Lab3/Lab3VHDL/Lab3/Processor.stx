@@ -1,0 +1,132 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> Reading design: Processor.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\SUB32BIT.vhd" into library work
+Parsing entity <SUB32BIT>.
+Parsing architecture <Behavioral> of entity <sub32bit>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\SRLO.vhd" into library work
+Parsing entity <SRLO>.
+Parsing architecture <Behavioral> of entity <srlo>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\SRAO.vhd" into library work
+Parsing entity <SRAO>.
+Parsing architecture <Behavioral> of entity <srao>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\SLLO.vhd" into library work
+Parsing entity <SLLO>.
+Parsing architecture <Behavioral> of entity <sllo>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\ROTR.vhd" into library work
+Parsing entity <ROTR>.
+Parsing architecture <Behavioral> of entity <rotr>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\ROTL.vhd" into library work
+Parsing entity <ROTL>.
+Parsing architecture <Behavioral> of entity <rotl>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\myRegister.vhd" into library work
+Parsing entity <MYREGISTER>.
+Parsing architecture <Behavioral> of entity <myregister>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\MUX32x1.vhd" into library work
+Parsing entity <MUX32X1>.
+Parsing architecture <Behavioral> of entity <mux32x1>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\MUX2TO1.vhd" into library work
+Parsing entity <MUX2TO1>.
+Parsing architecture <Behavioral> of entity <mux2to1>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\Decoder5to32.vhd" into library work
+Parsing entity <Decoder5x32>.
+Parsing architecture <Behavioral> of entity <decoder5x32>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\CompareModule.vhd" into library work
+Parsing entity <CompareModule>.
+Parsing architecture <Behavioral> of entity <comparemodule>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\ADD32BIT.vhd" into library work
+Parsing entity <ADD32BIT>.
+Parsing architecture <Behavioral> of entity <add32bit>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\REGISTER_FILE.vhd" into library work
+Parsing entity <REGISTER_FILE>.
+Parsing architecture <Behavioral> of entity <register_file>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\PC_Mux.vhd" into library work
+Parsing entity <PC_Mux>.
+Parsing architecture <Behavioral> of entity <pc_mux>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\PCREGISTER.vhd" into library work
+Parsing entity <PC>.
+Parsing architecture <Behavioral> of entity <pc>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\MUX2X1_5B.vhd" into library work
+Parsing entity <MUX2X1_5B>.
+Parsing architecture <Behavioral> of entity <mux2x1_5b>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\IF_MEM.vhd" into library work
+Parsing entity <IF_MEM>.
+Parsing architecture <syn> of entity <if_mem>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\Data_MEM.vhd" into library work
+Parsing entity <Data_MEM>.
+Parsing architecture <syn> of entity <data_mem>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\ALU.vhd" into library work
+Parsing entity <ALU>.
+Parsing architecture <Behavioral> of entity <alu>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\MEMSTAGE.vhd" into library work
+Parsing entity <MEMSTAGE>.
+Parsing architecture <Behavioral> of entity <memstage>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\IFSTAGE.vhd" into library work
+Parsing entity <IFSTAGE>.
+Parsing architecture <Behavioral> of entity <ifstage>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\DECSTAGE.vhd" into library work
+Parsing entity <DECSTAGE>.
+Parsing architecture <Behavioral> of entity <decstage>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\ALUSTAGE.vhd" into library work
+Parsing entity <ALUSTAGE>.
+Parsing architecture <Behavioral> of entity <alustage>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\Datapath.vhd" into library work
+Parsing entity <Datapath>.
+Parsing architecture <Behavioral> of entity <datapath>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\CONTROL.vhd" into library work
+Parsing entity <CONTROL>.
+Parsing architecture <Behavioral> of entity <control>.
+Parsing VHDL file "C:\Users\vaila\Dropbox\ORGANWSH\lab3\Lab3VHDL\Lab3\Processor.vhd" into library work
+Parsing entity <Processor>.
+Parsing architecture <Behavioral> of entity <processor>.
+
+
+Total REAL time to Xst completion: 6.00 secs
+Total CPU time to Xst completion: 5.90 secs
+ 
+--> 
+
+Total memory usage is 292792 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

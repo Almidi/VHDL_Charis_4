@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="RF.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CompareUnitTest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CompareUnitTest_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DecoderUnitTest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DecoderUnitTest_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX32x1UnitTest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX32x1UnitTest_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="REGISTER_FILE.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="REGISTER_FILE.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="REGISTER_FILE.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RFtest_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="RFtest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="RFtest_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RFtest_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SINGLE_REGISTER_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SINGLE_REGISTER_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="myRegister.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="myRegister.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="myRegister.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="myRegister_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="myRegister_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1486909801" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1486909801">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918736" xil_pn:in_ck="8454085992159390046" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1486918736">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CompareModule.vhd"/>
+      <outfile xil_pn:name="CompareUnitTest.vhd"/>
+      <outfile xil_pn:name="Decoder5to32.vhd"/>
+      <outfile xil_pn:name="DecoderUnitTest.vhd"/>
+      <outfile xil_pn:name="MUX2x1.vhd"/>
+      <outfile xil_pn:name="MUX32x1.vhd"/>
+      <outfile xil_pn:name="MUX32x1UnitTest.vhd"/>
+      <outfile xil_pn:name="REGISTER_FILE.vhd"/>
+      <outfile xil_pn:name="RFTEST.vhd"/>
+      <outfile xil_pn:name="SINGLE_REGISTER_TEST.vhd"/>
+      <outfile xil_pn:name="myRegister.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918138" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="6839141638876314328" xil_pn:start_ts="1486918138">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918138" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3252560995913774858" xil_pn:start_ts="1486918138">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1486915650" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5003181552377053527" xil_pn:start_ts="1486915650">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918736" xil_pn:in_ck="8454085992159390046" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1486918736">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CompareModule.vhd"/>
+      <outfile xil_pn:name="CompareUnitTest.vhd"/>
+      <outfile xil_pn:name="Decoder5to32.vhd"/>
+      <outfile xil_pn:name="DecoderUnitTest.vhd"/>
+      <outfile xil_pn:name="MUX2x1.vhd"/>
+      <outfile xil_pn:name="MUX32x1.vhd"/>
+      <outfile xil_pn:name="MUX32x1UnitTest.vhd"/>
+      <outfile xil_pn:name="REGISTER_FILE.vhd"/>
+      <outfile xil_pn:name="RFTEST.vhd"/>
+      <outfile xil_pn:name="SINGLE_REGISTER_TEST.vhd"/>
+      <outfile xil_pn:name="myRegister.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918940" xil_pn:in_ck="8454085992159390046" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6262088457945129750" xil_pn:start_ts="1486918935">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="RFtest_beh.prj"/>
+      <outfile xil_pn:name="RFtest_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1486918940" xil_pn:in_ck="372230245520173255" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8984318283369767847" xil_pn:start_ts="1486918940">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="RFtest_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

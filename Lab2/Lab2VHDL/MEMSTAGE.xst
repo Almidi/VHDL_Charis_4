@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst"
+elaborate
+-ifn MEMSTAGE.prj
+-ifmt mixed

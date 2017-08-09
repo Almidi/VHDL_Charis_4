@@ -1,0 +1,5 @@
+work	"CompareModule.vhd"
+work	"MUX2x1.vhd"
+work	"MUX32x1.vhd"
+work	"REGISTER_FILE.vhd"
+work	"myRegister.vhd"

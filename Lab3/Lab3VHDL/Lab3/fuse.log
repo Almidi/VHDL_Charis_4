@@ -1,0 +1,78 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PROCESSOR_TEST_isim_beh.exe -prj C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PROCESSOR_TEST_beh.prj work.PROCESSOR_TEST 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/SUB32BIT.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/SRLO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/SRAO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/SLLO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/ROTR.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/ROTL.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/myRegister.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/MUX32x1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/MUX2TO1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/Decoder5to32.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/CompareModule.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/ADD32BIT.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/REGISTER_FILE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PC_Mux.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PCREGISTER.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/MUX2X1_5B.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/IF_MEM.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/Data_MEM.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/MEMSTAGE.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/MEMSTAGE.vhd" Line 33: Actual for formal port addr is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/IFSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/DECSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/ALUSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/Datapath.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/CONTROL.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/Processor.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PROCESSOR_TEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity CONTROL [control_default]
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package attributes
+Compiling package std_logic_misc
+Compiling package numeric_std
+Compiling architecture behavioral of entity MUX2TO1 [mux2to1_default]
+Compiling architecture behavioral of entity ADD32BIT [add32bit_default]
+Compiling architecture behavioral of entity SUB32BIT [sub32bit_default]
+Compiling architecture behavioral of entity ROTL [rotl_default]
+Compiling architecture behavioral of entity ROTR [rotr_default]
+Compiling architecture behavioral of entity SLLO [sllo_default]
+Compiling architecture behavioral of entity SRAO [srao_default]
+Compiling architecture behavioral of entity SRLO [srlo_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity MYREGISTER [myregister_default]
+Compiling architecture behavioral of entity ALUSTAGE [alustage_default]
+Compiling architecture behavioral of entity MUX32X1 [mux32x1_default]
+Compiling architecture behavioral of entity CompareModule [comparemodule_default]
+Compiling architecture behavioral of entity Decoder5x32 [decoder5x32_default]
+Compiling architecture behavioral of entity REGISTER_FILE [register_file_default]
+Compiling architecture behavioral of entity MUX2X1_5B [mux2x1_5b_default]
+Compiling architecture behavioral of entity DECSTAGE [decstage_default]
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture behavioral of entity PC_Mux [pc_mux_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture syn of entity IF_MEM [if_mem_default]
+Compiling architecture behavioral of entity IFSTAGE [ifstage_default]
+Compiling architecture syn of entity Data_MEM [data_mem_default]
+Compiling architecture behavioral of entity MEMSTAGE [memstage_default]
+Compiling architecture behavioral of entity Datapath [datapath_default]
+Compiling architecture behavioral of entity Processor [processor_default]
+Compiling architecture behavior of entity processor_test
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 63 VHDL Units
+Built simulation executable C:/Users/vaila/Dropbox/ORGANWSH/lab3/Lab3VHDL/Lab3/PROCESSOR_TEST_isim_beh.exe
+Fuse Memory Usage: 48984 KB
+Fuse CPU Usage: 1109 ms

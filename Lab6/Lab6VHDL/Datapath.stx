@@ -1,0 +1,83 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/myRegister.vhd" in Library work.
+Architecture behavioral of Entity myregister is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX32x1.vhd" in Library work.
+Architecture behavioral of Entity mux32x1 is up to date.
+ERROR:HDLParsers - Cannot rename dependency database for library "work", file is "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/xst/work/hdpdeps.ref", Temporary database file "C:\Users\vaila\Dropbox\ORGANWSH\Lab6\Lab6VHDL\xst\work\xil_97052_8" will remain.  System error message is:  File exists
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CompareModule.vhd" in Library work.
+Architecture behavioral of Entity comparemodule is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2TO1.vhd" in Library work.
+Architecture behavioral of Entity mux2to1 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Decoder5to32.vhd" in Library work.
+Architecture behavioral of Entity decoder5x32 is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ADD32BIT.vhd" in Library work.
+Architecture behavioral of Entity add32bit is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SUB32BIT.vhd" in Library work.
+Architecture behavioral of Entity sub32bit is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTL.vhd" in Library work.
+Architecture behavioral of Entity rotl is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTR.vhd" in Library work.
+Architecture behavioral of Entity rotr is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SLLO.vhd" in Library work.
+Architecture behavioral of Entity sllo is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRAO.vhd" in Library work.
+Architecture behavioral of Entity srao is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRLO.vhd" in Library work.
+Architecture behavioral of Entity srlo is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/PCREGISTER.vhd" in Library work.
+Architecture behavioral of Entity pc is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHE.vhd" in Library work.
+Architecture syn of Entity cache is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGMUX2x1.vhd" in Library work.
+Architecture behavioral of Entity pc_mux is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_MEM.vhd" in Library work.
+Architecture syn of Entity if_mem is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGISTER_FILE.vhd" in Library work.
+Architecture behavioral of Entity register_file is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2X1_5B.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_5b is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALUSTAGE.vhd" in Library work.
+Architecture behavioral of Entity alustage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/DECSTAGE.vhd" in Library work.
+Architecture behavioral of Entity decstage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IFSTAGE.vhd" in Library work.
+Architecture behavioral of Entity ifstage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHESTAGE.vhd" in Library work.
+Architecture behavioral of Entity cache_stage is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd" in Library work.
+Entity <cntrl> compiled.
+ERROR:HDLParsers:1411 - "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd" Line 178. Parameter EX of mode out can not be associated with a formal parameter of mode in.
+ERROR:HDLParsers:1411 - "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd" Line 179. Parameter EX of mode out can not be associated with a formal parameter of mode in.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.41 secs
+ 
+--> 
+
+Total memory usage is 269964 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

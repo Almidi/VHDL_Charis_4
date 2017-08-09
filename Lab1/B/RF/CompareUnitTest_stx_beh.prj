@@ -1,0 +1,2 @@
+vhdl isim_temp "CompareModule.vhd"
+vhdl isim_temp "CompareUnitTest.vhd"

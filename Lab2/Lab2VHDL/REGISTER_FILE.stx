@@ -1,0 +1,50 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/myRegister.vhd" in Library work.
+Entity <MYREGISTER> compiled.
+Entity <MYREGISTER> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/MUX32x1.vhd" in Library work.
+Entity <MUX32X1> compiled.
+Entity <MUX32X1> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/MUX2TO1.vhd" in Library work.
+Entity <MUX2TO1> compiled.
+Entity <MUX2TO1> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/CompareModule.vhd" in Library work.
+Entity <CompareModule> compiled.
+Entity <CompareModule> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/Decoder5to32.vhd" in Library work.
+Entity <Decoder5x32> compiled.
+Entity <Decoder5x32> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/REGISTER_FILE.vhd" in Library work.
+Entity <REGISTER_FILE> compiled.
+Entity <REGISTER_FILE> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.22 secs
+ 
+--> 
+
+Total memory usage is 274052 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

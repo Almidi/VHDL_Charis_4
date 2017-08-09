@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ADD32BIT.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALU.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ALUSTAGE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CACHESTAGE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CNTRL.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CPU_TEST.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/CompareModule.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/DECSTAGE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Data_MEM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Datapath.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/Decoder5to32.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/EX_MEM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ID_EX.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IFSTAGE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_ID.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/IF_MEM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEMSTAGE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_INTER.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MEM_WB.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2TO1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX2X1_5B.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/MUX32x1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/PCREGISTER.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGISTER_FILE.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/REGMUX2x1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTL.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/ROTR.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SLLO.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRAO.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SRLO.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/SUB32BIT.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/JARVIS/Dropbox/ORGANWSH/Lab6/Lab6VHDL/myRegister.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

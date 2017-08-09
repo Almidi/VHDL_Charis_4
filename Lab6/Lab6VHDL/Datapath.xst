@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/vaila/Dropbox/ORGANWSH/Lab6/Lab6VHDL/xst"
+elaborate
+-ifn Datapath.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/vaila/Dropbox/ORGANWSH/Lab4/LAB4VHDL/PROCESSOR_TEST.xst" -ofn "C:/Users/vaila/Dropbox/ORGANWSH/Lab4/LAB4VHDL/PROCESSOR_TEST.syr" 

@@ -1,0 +1,49 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/IFSTAGE is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/IFSTAGE.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IFSTAGE.vhd".
+WARNING:HDLParsers:3607 - Unit work/IFSTAGE/Behavioral is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/IFSTAGE.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IFSTAGE.vhd".
+WARNING:HDLParsers:3607 - Unit work/IF_MEM is now defined in a different file.  It was defined in "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/IF_MEM.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IF_MEM.vhd".
+WARNING:HDLParsers:3607 - Unit work/IF_MEM/syn is now defined in a different file.  It was defined in "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/IF_MEM.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IF_MEM.vhd".
+WARNING:HDLParsers:3607 - Unit work/PC is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/PCREGISTER.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/PCREGISTER.vhd".
+WARNING:HDLParsers:3607 - Unit work/PC/Behavioral is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/PCREGISTER.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/PCREGISTER.vhd".
+WARNING:HDLParsers:3607 - Unit work/PC_Mux is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/REGMUX2x1.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/REGMUX2x1.vhd".
+WARNING:HDLParsers:3607 - Unit work/PC_Mux/Behavioral is now defined in a different file.  It was defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/Lab2/REGMUX2x1.vhd", and is now defined in "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/REGMUX2x1.vhd".
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/REGMUX2x1.vhd" in Library work.
+Architecture behavioral of Entity pc_mux is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/PCREGISTER.vhd" in Library work.
+Architecture behavioral of Entity pc is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IF_MEM.vhd" in Library work.
+Architecture syn of Entity if_mem is up to date.
+Compiling vhdl file "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/IFSTAGE.vhd" in Library work.
+Entity <ifstage> compiled.
+Entity <ifstage> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.25 secs
+ 
+--> 
+
+Total memory usage is 274500 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    9 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

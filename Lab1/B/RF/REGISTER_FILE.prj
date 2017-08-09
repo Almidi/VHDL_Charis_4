@@ -1,0 +1,6 @@
+vhdl work "myRegister.vhd"
+vhdl work "MUX32x1.vhd"
+vhdl work "MUX2x1.vhd"
+vhdl work "Decoder5to32.vhd"
+vhdl work "CompareModule.vhd"
+vhdl work "REGISTER_FILE.vhd"

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/xst"
+elaborate
+-ifn DECSTAGE.prj
+-ifmt mixed

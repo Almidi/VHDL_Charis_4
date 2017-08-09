@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST_isim_beh.exe" -prj "C:/Users/vaila/Dropbox/ORGANWSH/Lab2/Lab2VHDL/DECSTAGE_TEST_beh.prj" "work.DECSTAGE_TEST" 

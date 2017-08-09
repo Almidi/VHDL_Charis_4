@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFtest_isim_beh.exe" -prj "C:/Users/JARVIS/Dropbox/ORGANWSH/Lab1/B/RF/RFtest_beh.prj" "work.RFtest" 

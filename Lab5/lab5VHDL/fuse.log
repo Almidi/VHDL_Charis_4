@@ -1,0 +1,89 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CPU_TEST_isim_beh.exe -prj C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CPU_TEST_beh.prj work.CPU_TEST 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SUB32BIT.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SRLO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SRAO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/SLLO.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ROTR.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ROTL.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/myRegister.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX32x1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX2TO1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Decoder5to32.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CompareModule.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ADD32BIT.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/REGMUX2x1.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/REGISTER_FILE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/PCREGISTER.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX2X1_5B.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IF_MEM.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Data_MEM.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MUX_4to1_32b.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MEM_WB.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/MEMSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IF_ID.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/IFSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ID_EX.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/HDU.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/FWD_CNTRL.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/EX_MEM.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/DECSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CNTRL.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/ALUSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/Datapath.vhd" into library work
+Parsing VHDL file "C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CPU_TEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_signed
+Compiling package numeric_std
+Compiling package attributes
+Compiling package std_logic_misc
+Compiling architecture behavioral of entity MUX2TO1 [mux2to1_default]
+Compiling architecture behavioral of entity ADD32BIT [add32bit_default]
+Compiling architecture behavioral of entity SUB32BIT [sub32bit_default]
+Compiling architecture behavioral of entity ROTL [rotl_default]
+Compiling architecture behavioral of entity ROTR [rotr_default]
+Compiling architecture behavioral of entity SLLO [sllo_default]
+Compiling architecture behavioral of entity SRAO [srao_default]
+Compiling architecture behavioral of entity SRLO [srlo_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity ALUSTAGE [alustage_default]
+Compiling architecture behavioral of entity MYREGISTER [myregister_default]
+Compiling architecture behavioral of entity MUX32X1 [mux32x1_default]
+Compiling architecture behavioral of entity CompareModule [comparemodule_default]
+Compiling architecture behavioral of entity Decoder5x32 [decoder5x32_default]
+Compiling architecture behavioral of entity REGISTER_FILE [register_file_default]
+Compiling architecture behavioral of entity MUX2X1_5B [mux2x1_5b_default]
+Compiling architecture behavioral of entity DECSTAGE [decstage_default]
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture behavioral of entity PC_Mux [pc_mux_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture syn of entity IF_MEM [if_mem_default]
+Compiling architecture behavioral of entity IFSTAGE [ifstage_default]
+Compiling architecture syn of entity Data_MEM [data_mem_default]
+Compiling architecture behavioral of entity MEMSTAGE [memstage_default]
+Compiling architecture behavioral of entity CNTRL [cntrl_default]
+Compiling architecture behavioral of entity MUX_4to1_32b [mux_4to1_32b_default]
+Compiling architecture behavioral of entity FWD_CNTRL [fwd_cntrl_default]
+Compiling architecture behavioral of entity HDU [hdu_default]
+Compiling architecture behavioral of entity MEM_WB [mem_wb_default]
+Compiling architecture behavioral of entity EX_MEM [ex_mem_default]
+Compiling architecture behavioral of entity ID_EX [id_ex_default]
+Compiling architecture behavioral of entity IF_ID [if_id_default]
+Compiling architecture behavioral of entity Datapath [datapath_default]
+Compiling architecture behavior of entity cpu_test
+Time Resolution for simulation is 1ps.
+Waiting for 27 sub-compilation(s) to finish...
+Compiled 75 VHDL Units
+Built simulation executable C:/Users/vaila/Dropbox/ORGANWSH/Lab5/lab5VHDL/CPU_TEST_isim_beh.exe
+Fuse Memory Usage: 51444 KB
+Fuse CPU Usage: 1859 ms

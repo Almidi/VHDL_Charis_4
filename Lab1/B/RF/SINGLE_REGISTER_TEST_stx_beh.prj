@@ -1,0 +1,2 @@
+vhdl isim_temp "myRegister.vhd"
+vhdl isim_temp "SINGLE_REGISTER_TEST.vhd"
