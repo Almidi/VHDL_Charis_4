@@ -6,4 +6,4 @@
 - Navigate to Project->Add Copy of Source.
 - Import all files/folders from a VHDL folder (These folders contain a .xise file)
 
-All pdf's are in **Greek**
+All PDFs are in **Greek**
